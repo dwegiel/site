@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": " | dwegiel",
-  "welcomeText": "Welcome to my personal site.\n\nThis is my future home for blog posts and documenting my projects on software development and hardware engineering and design.\n\nFeel free to subscribe for notifications.",
+  "welcomeText": "#Welcome to my personal site. \n\nThis is my future home for blog posts and documenting my projects on software development and hardware engineering and design.\n\nFeel free to subscribe for notifications.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
