@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-netlifycms",
+  "name": "personal-site",
   "version": "0.0.1",
-  "description": "Yo",
-  "author": "Gomah",
+  "description": "Sandbox for developing my personal site.",
+  "author": "dwegiel",
   "private": true,
   "scripts": {
     "dev": "nuxt-ts -o",
@@ -72,5 +72,6 @@
     "sass-loader": "^9.0.1",
     "ts-jest": "^26.1.1",
     "vue-jest": "^3.0.6"
-  }
+  },
+  "keywords": []
 }
