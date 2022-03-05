@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://avatars.githubusercontent.com/u/8711703?s=400&v=4"
+          src="https://avatars.githubusercontent.com/u/8711703"
         />
       </div>
     </div>
